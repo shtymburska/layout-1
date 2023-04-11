@@ -127,3 +127,10 @@ img {
     min-width: 150px;
     display: none;
   }
+
+  .side-menu {
+    width:95px;
+    height: 300px;
+    display: block;
+    background-color: #0a3057;
+  }
